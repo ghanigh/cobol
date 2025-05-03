@@ -9,7 +9,7 @@
            OBJECT-COMPUTER. IBM-SYSTEM-370.
            SPECIAL-NAMES.
                DECIMAL-POINT IS COMMA.
-               CONSOLE IS TERMINAL.
+               CONSOLE CONSOLE IS TERMINAL.
 
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
